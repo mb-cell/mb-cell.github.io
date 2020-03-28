@@ -181,8 +181,8 @@ var i = 0,
 // Typerwrite text content. Use a pipe to indicate the start of the second line "|".  
 var textArray = [
 " Hello! I'm Mahua Biswas.",
-  "I'm a Computer Geek.",
-  "I'm an android developer"
+  "I'm a Computer Geek."
+ 
 ];
 
 // Speed (in milliseconds) of typing.
